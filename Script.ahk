@@ -18,7 +18,7 @@ IfWinNotActive, mRemoteNG
     WinActivate, mRemoteNG
 	return
 }
-return
+
 
 ;This opens mRemoteNG if is not already running
 Else
